@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "packageName": "io.dshjsqb.xk",
+  "versionCode": 29,
+  "versionName": "0.3.11",
+  "minSdk": 29,
+  "apk": {
+    "name": "DSH-io.dshjsqb.xk-v7.apk",
+    "size": 101195099,
+    "sha256": "22d5d41f656b03404e7789d1e54b9aab30df29e92657edc113874d5daa580df2",
+    "urls": [
+      "https://github.com/Brielleyou/DSH-Android-xk/releases/download/v0.3.11-xk/DSH-io.dshjsqb.xk-v7.apk"
+    ]
+  },
+  "signerSha256": "935c021714ab6bc0b981e0d3ff6bf272b6c9cc70bbe44c1a7e152cc76c82cc7a",
+  "notes": {
+    "zh": "- 检查更新改为指向本仓库（Brielleyou/DSH-Android-xk）\n- 其余同 v0.3.11-xk 首次发布",
+    "en": "- Update check now points to this repository (Brielleyou/DSH-Android-xk)\n- Otherwise the same as the first v0.3.11-xk release"
+  },
+  "publishedAt": "2026-11-22T13:20:00Z"
+}
